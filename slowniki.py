@@ -10,7 +10,9 @@ def kroczaco(n):
     k = []
     for i in range(n):
         k.append(suma(*list(range(i))))
-    print(k)
+    print(k, 'to lista!!!')
 
 kroczaco(6)
 a=45
+b=46
+c = 47
