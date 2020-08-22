@@ -16,3 +16,4 @@ kroczaco(6)
 a=45
 b=46
 c = 47
+print('To wazna zmiana: koniec świata')
